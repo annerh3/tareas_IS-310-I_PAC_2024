@@ -6,7 +6,4 @@ let area =  pi * Math.pow(radio,2);
 alert('El Area del circulo con radio ' + radio + ' es: ' + area.toFixed(2) + ' unidades cuadradas.')
 
 
-// let radio = parseFloat(prompt("Ingresa el radio del círculo: "));
-// let pi = Math.PI; // "Math.PI" en lugar de "MAth.pi"
-// let area =  pi * Math.pow(radio, 2);
-// alert('El área del círculo con radio ' + radio + ' es: ' + area + ' unidades cuadradas.');
+
